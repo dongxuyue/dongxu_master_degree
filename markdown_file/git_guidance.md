@@ -278,3 +278,7 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 
   如果`git pull`提示`no tracking information`，则说明本地分支和远程分支的链接关系没有创建，用命令`git branch --set-upstream-to  origin/`。
 
+## Reference
+
+1. https://www.liaoxuefeng.com/wiki/896043488029600
+2. https://www.runoob.com/w3cnote/git-guide.html
